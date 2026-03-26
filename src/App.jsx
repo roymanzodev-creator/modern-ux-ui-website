@@ -4,7 +4,6 @@ import Features from "./components/Features";
 import Pricing from "./components/Pricing";
 import Testimonials from "./components/Testimonials";
 import Footer from "./components/Footer";
-import Test from "./components/Test";
 import { useEffect, useState } from "react";
 
 
