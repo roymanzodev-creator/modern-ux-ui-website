@@ -69,3 +69,6 @@
     transform: translateY(0);
   }
 }
+
+.hero-section { @apply relative min-h-screen flex items-center ... }
+.btn-primary { @apply px-6 py-3 bg-blue-500 ... }

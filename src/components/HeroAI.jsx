@@ -15,7 +15,7 @@ export default function Hero() {
         <div className="relative bg-white/5 backdrop-blur-xl rounded-2xl p-4 shadow-2xl border border-white/10">
 
           {/* IDE Container */}
-          <div className="bg-gradient-to-br from-gray-900/20 to-gray-800/20 rounded-lg overflow-hidden h-[300px] border border-white/5">
+          <div className="bg-linear-to-br from-gray-900/20 to-gray-800/20 rounded-lg overflow-hidden h-75 border border-white/5">
 
             {/* Header */}
             <Header />
